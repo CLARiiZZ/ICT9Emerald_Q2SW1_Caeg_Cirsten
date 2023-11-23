@@ -1,0 +1,9 @@
+h1 {text-align: center; color: grey; text-decoration: underline;}
+
+p {text-align: center}
+
+p.grey {color: grey;}
+p.white {color: white;}
+
+
+body {background-color: black;}
